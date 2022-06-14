@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Front-End React Developer
+🌱 I’m currently learning Front-End React Developer<br>
 📫 How to reach me: www.linkedin.com/in/alexluque2911
 
 
