@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning Front-End React Developer
+📫 How to reach me: www.linkedin.com/in/alexluque2911
+
 
 <!--
 **alexluque29/alexluque29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
